@@ -1,3 +1,4 @@
+Distributed Data Analysis Course Group Project
 REQUIRED PACKAGES
 - pyspark-dist-explore (pip install pyspark-dist-explore)
 
